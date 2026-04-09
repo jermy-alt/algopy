@@ -19,4 +19,4 @@ Program ini dibuat untuk menyelesaikan tugas [Analisis Nilai Dan Matrix].
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
-[[Open In Colab]](https://colab.research.google.com/github/jermy-alt/algopy/blob/main/Tugas_Algoritma.ipynb)
+[[Open In Colab]](https://colab.research.google.com/github/jermy-alt/algopy/blob/main/Tugas_Algoritmat2.ipynb)
