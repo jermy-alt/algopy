@@ -28,4 +28,4 @@ Program ini dibuat untuk menyelesaikan tugas [Perhitungan Pangkat].
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
-[[Open In Colab]](https://colab.research.google.com/github/jermy-alt/algopy/blob/main/Tugas_Algoritmat2.ipynb)
+[[Open In Colab]](https://colab.research.google.com/github/jermy-alt/algopy/blob/main/Tugas_Algoritmat_Pertemuan7.ipynb)
